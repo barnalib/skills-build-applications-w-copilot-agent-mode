@@ -31,3 +31,7 @@ yarn-error.log*
 # Python files
 *.pyc
 __pycache__/
+
+# OctoFit tracker venv
+octofit-tracker/backend/venv/
+octofit-tracker/.venv/
